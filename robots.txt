@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvuweeda.github.io/GlK/sitemap_index.txt
+Sitemap: https://uvuweeda.github.io/Xkt/sitemap_index.txt
+Sitemap: https://uvuweeda.github.io/aVP/sitemap_index.txt
+Sitemap: https://uvuweeda.github.io/jsE/sitemap_index.txt
